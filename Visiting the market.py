@@ -1,6 +1,5 @@
-
-
 #Code that determines odd or even days to visit market based on NIRC
+#This is based on implementation of staggered visits by Singapore Government to reduce COVID exposure to the community and enable better tracking
 date = int(input("Enter day of month (number): "))
 nirc = int(input("What is the last digit of your nirc? "))
 
